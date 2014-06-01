@@ -11,7 +11,7 @@ What is W2Coin?
 
 W2Coin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 10 minute block targets
- - subsidy halves in 840k blocks (~4 years)
+ - subsidy halves in 2.1 Million blocks
  - ~2.1 billion total coins
  - 500 coins per block
  - 1 block to retarget difficulty - Gravity Well
